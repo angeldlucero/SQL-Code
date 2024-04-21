@@ -1,4 +1,6 @@
 
+![paper logo](https://github.com/angeldlucero/SQL-Code/blob/main/PostgreSQL/Parch_and_Posey_Company/Images/Paper_Selling.svg)
+
 # Parch & Posey Business Data Analysis
 
 
