@@ -14,7 +14,7 @@ Como analista de datos, se le pide que ayude a la dirección a tomar decisiones 
 
 ## Lessons Learned
 
-Tendremos a disposición **siete** archivos SQL con sus respectivas preguntas comerciales en cada uno. Además, en cada archivo sé ira avanznado en la dificultad de las queries para responder a preguntas comerciales.
+Tendremos a disposición **siete** archivos SQL con sus respectivas preguntas comerciales en cada uno. Además, en cada archivo sé ira avanzando en la dificultad de las queries para responder a preguntas comerciales.
 
 A continuación se detallará lo que cubrira cada archivo:
 
